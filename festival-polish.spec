@@ -6,6 +6,7 @@ Release:	2
 License:	non-commercial use
 Group:		Applications/Sound
 Source0:	ftp://voruta.ek.univ.gda.pl:21/emacspeak/festival_polish_voice.tgz
+# Source0-md5:	7866e5d92630817e2a5f3fbcafecc4ac
 Requires:	festival
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
