@@ -3,7 +3,7 @@ Summary(pl):	Prosta synteza jêzyka polskiego
 Name:		festival-polish
 Version:	0.1
 Release:	1
-License:	Non-commercial use
+License:	Non-commercial use, distributable
 Group:		Applications/Sound
 Source0:	ftp://voruta.ek.univ.gda.pl:21/emacspeak/festival_polish_voice.tgz
 Requires:	festival
