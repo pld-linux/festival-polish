@@ -1,5 +1,5 @@
 Summary:	Basic Polish sythesizer
-Summary(pl.UTF-8):   Prosta synteza języka polskiego
+Summary(pl.UTF-8):	Prosta synteza języka polskiego
 Name:		festival-polish
 Version:	0.1
 Release:	2
