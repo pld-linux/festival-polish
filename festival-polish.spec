@@ -1,5 +1,5 @@
 Summary:	Basic Polish sythesizer
-Summary(pl):	Prosta synteza jêzyka polskiego
+Summary(pl.UTF-8):   Prosta synteza jÄ™zyka polskiego
 Name:		festival-polish
 Version:	0.1
 Release:	2
@@ -16,9 +16,9 @@ This package contains a basic Polish synthesizer based on the work
 by Dominika Oliver as part of her Masters at the Dept of Linguistics
 University of Edinburgh in the summer of 1998.
 
-%description -l pl
-Ten pakiet zawiera podstawowy syntezator mowy polskiej bazuj±cy na
-pracy Dominiki Oliver, bêd±cej czê¶ci± jej pracy dyplomowej z lata
+%description -l pl.UTF-8
+Ten pakiet zawiera podstawowy syntezator mowy polskiej bazujÄ…cy na
+pracy Dominiki Oliver, bÄ™dÄ…cej czÄ™Å›ciÄ… jej pracy dyplomowej z lata
 1998 roku na wydziale lingwistyki Uniwersytetu w Edinburghu.
 
 %prep
